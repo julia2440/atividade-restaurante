@@ -1,10 +1,10 @@
 """
 Informe o número da turma: 
-Turma - 
+Turma - 93313
 
 Nome completo dos componentes.
-1 - 
-2 - 
+1 - Heloisa Lima de Oliveira
+2 - júlia Vitória dos Santos Azevedo Jesus
 """
 
 
