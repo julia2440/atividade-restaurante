@@ -15,13 +15,13 @@ import os
 os.system("cls || clear") 
 
 menu = {
-    1: {"nome": "Espaguete à Carbonara", "preco": 25.00},
-    2: {"nome": "Pizza Margherita", "preco": 30.00},
-    3: {"nome": "Sushi Variado", "preco": 50.00},
-    4: {"nome": "Salada Caesar", "preco": 20.00},
-    5: {"nome": "Bife à Parmegiana", "preco": 40.00},
-    6: {"nome": "Lasanha de Berinjela", "preco": 35.00},
-    7: {"nome": "Tacos de Frango", "preco": 28.00}
+    1: {"nome": "Espaguete", "preco": 25.00},
+    2: {"nome": "Pizza ", "preco": 30.00},
+    3: {"nome": "Sushi ", "preco": 50.00},
+    4: {"nome": "Salada ", "preco": 20.00},
+    5: {"nome": "Bife ", "preco": 40.00},
+    6: {"nome": "Lasanha ", "preco": 35.00},
+    7: {"nome": "Frango", "preco": 28.00}
 }
 
 def exibir_menu():
